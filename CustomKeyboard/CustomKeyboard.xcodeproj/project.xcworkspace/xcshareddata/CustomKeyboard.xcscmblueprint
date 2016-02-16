@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3BB1A9300CE95F4D540B411D88D3E3EFC879D818",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3C253C5A6D42836DDB7169DBC44109917318EEAB" : 0,
+    "3BB1A9300CE95F4D540B411D88D3E3EFC879D818" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EBB1C06A-4205-4B35-9379-085C1B3F221B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3C253C5A6D42836DDB7169DBC44109917318EEAB" : "ios-decal-hw2",
+    "3BB1A9300CE95F4D540B411D88D3E3EFC879D818" : "hw2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CustomKeyboard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CustomKeyboard\/CustomKeyboard.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:leonliang10\/ios-decal-hw2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BB1A9300CE95F4D540B411D88D3E3EFC879D818"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:iosdecal\/ios-decal-hw2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C253C5A6D42836DDB7169DBC44109917318EEAB"
+    }
+  ]
+}
